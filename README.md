@@ -18,6 +18,7 @@ The Excel dashboard includes:
 
 ---
 
+
 ## 🔍 Major Events and Key Insights
 
 - 🚀 **Europe led all regions in total revenue**, indicating a strong market presence and effective distribution strategy.
@@ -76,3 +77,4 @@ The Excel dashboard includes:
 This project demonstrates advanced proficiency in **Microsoft Excel** for building clean, informative dashboards that reveal patterns and drive strategic business decisions. The use of Excel’s data visualization tools, formulas, and interactivity brings out meaningful insights from a retail dataset, reflecting strong analytical and design capabilities.
 
 
+[Bike_Sales_Visualisation _4.xlsx](https://github.com/user-attachments/files/20721267/Bike_Sales_Visualisation._4.xlsx)
